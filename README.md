@@ -102,7 +102,7 @@ WHERE condition;
 
 - MIN() → সর্বনিম্ন মান
 
-✅ ### Example
+### ✅Example
 ```ts
 SELECT department, COUNT(*) AS total_students
 FROM students
